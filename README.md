@@ -19,8 +19,7 @@ A 32TB TrueNAS SCALE home server for media playback, file archiving, and game ho
 - **GPU:** GTX 1660 Super  
 - **RAM:** 32GB DDR4  
 - **Storage:** 4 × 8TB Seagate HDDs (32TB total)  
-- **Enclosure:** 6-bay USB 3.0 direct-attached storage (DAS) with cooling fan  
-- **UPS:** APC battery backup  
+- **Enclosure:** 6-bay USB 3.0 direct-attached storage (DAS) with cooling fan   
 - **Cart:** Elafros heavy-duty plastic rolling cart with modified desktop surface  
 - **Mods:** Raised drive holder (wood block), mounted desktop, heavy-duty cable ties for clean routing
 
@@ -64,6 +63,7 @@ A 32TB TrueNAS SCALE home server for media playback, file archiving, and game ho
 - Automated cloud backup integration
 - Add UPS monitoring and alerting
 - Install dedicated server manager for easier game hosting
+- Add APC battery backup 
 
 ---
 

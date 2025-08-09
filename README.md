@@ -45,7 +45,6 @@ A 32TB TrueNAS SCALE home server for media playback, file archiving, and game ho
 ---
 
 ## Images
-| Front View | Side View | Drive Holder |
 |------------|-----------|--------------|
 |![PC Back](https://github.com/user-attachments/assets/1032be6e-f000-4d00-b269-3444412fb2b2)|
 |![PC Back](https://github.com/user-attachments/assets/1032be6e-f000-4d00-b269-3444412fb2b2)|

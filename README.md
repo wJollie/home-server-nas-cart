@@ -17,7 +17,7 @@ A 32TB TrueNAS SCALE home server for media playback, file archiving, and game ho
 ## Hardware
 - **CPU:** Ryzen 5 2600  
 - **GPU:** GTX 1660 Super  
-- **RAM:** 16GB DDR4  
+- **RAM:** 32GB DDR4  
 - **Storage:** 4 × 8TB Seagate HDDs (32TB total)  
 - **Enclosure:** 6-bay USB 3.0 direct-attached storage (DAS) with cooling fan  
 - **UPS:** APC battery backup  

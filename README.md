@@ -47,13 +47,13 @@ A 32TB TrueNAS SCALE home server for media playback, file archiving, and game ho
 
 <p align="center">
 
-![In-Drawer](https://github.com/user-attachments/assets/a35b2f40-c676-47bc-b4cc-6cc196c6eaf7)
-![HD Store](https://github.com/user-attachments/assets/0bc1a4cc-0df4-42f1-8922-c833ba0b807c)
-![Desktop](https://github.com/user-attachments/assets/3b356afa-96c9-42cc-817c-80e7da9e78da)
-![Cable Back](https://github.com/user-attachments/assets/e9c3b87e-f484-49b9-b505-c9c3404ec293)
-![Top](https://github.com/user-attachments/assets/53d33c28-22d0-4a79-9373-65e70764940f)
-![PC Back](https://github.com/user-attachments/assets/43466763-08ce-4087-b5b8-616122d6e3e1)
-![Monitoring](https://github.com/user-attachments/assets/424a4fdc-4b9d-4c88-bf24-83e448b7599f)
+<img src="https://github.com/user-attachments/assets/a35b2f40-c676-47bc-b4cc-6cc196c6eaf7" width="25%" />
+<img src="https://github.com/user-attachments/assets/0bc1a4cc-0df4-42f1-8922-c833ba0b807c" width="25%" />
+<img src="https://github.com/user-attachments/assets/3b356afa-96c9-42cc-817c-80e7da9e78da" width="25%" />
+<img src="https://github.com/user-attachments/assets/e9c3b87e-f484-49b9-b505-c9c3404ec293" width="25%" />
+<img src="https://github.com/user-attachments/assets/53d33c28-22d0-4a79-9373-65e70764940f" width="25%" />
+<img src="https://github.com/user-attachments/assets/43466763-08ce-4087-b5b8-616122d6e3e1" width="25%" />
+<img src="https://github.com/user-attachments/assets/424a4fdc-4b9d-4c88-bf24-83e448b7599f" width="25%" />
 
 </p>
 
